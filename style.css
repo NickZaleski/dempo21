@@ -256,6 +256,7 @@
     }
 
     .girl{
+        margin: 0 auto;
         margin-top: 40px;
         width: auto;
     }
@@ -268,6 +269,7 @@
 
     .girl svg{
        height: 200px;
+
     }
 
     .music{
